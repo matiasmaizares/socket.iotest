@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Gorra Celtics",
+    "description": "Gorra NBA Boston Celtics",
+    "code": "ghkuik",
+    "price": 1500,
+    "status": true,
+    "stock": 7,
+    "category": "Gorras",
+    "thumbnails": ""
+  },
+  {
+    "title": "Gorra Knicks",
+    "description": "Gorra NBA New York Knicks",
+    "code": "ertrrty",
+    "price": 1500,
+    "status": true,
+    "stock": 5,
+    "category": "Gorras",
+    "thumbnails": ""
+  },
+  {
+    "title": "Buzo Lakers",
+    "description": "Buzo Los Angeles Lakers",
+    "code": "hgjkg",
+    "price": 6200,
+    "status": true,
+    "stock": 9,
+    "category": "Buzos",
+    "thumbnails": ""
+  },
+  {
+    "title": "Buzo Bulls",
+    "description": "Buzo Chicago Bulls",
+    "code": "tyuih",
+    "price": 6200,
+    "status": true,
+    "stock": 7,
+    "category": "Buzos",
+    "thumbnails": ""
+  },
+  {
+    "description": "Camisa Amarilla"
+  },
+  {
+    "id": "906c5aa4-b626-4c3c-aa71-fb446a45ed7f",
+    "title": "Camisa",
+    "description": "camisa blanca",
+    "code": "dfg",
+    "price": 1234,
+    "status": true,
+    "stock": 2,
+    "category": "camisas"
+  }
+]
